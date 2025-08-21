@@ -19,3 +19,4 @@ let botaoigual = document.getElementById("botaoigual")
 let botaoap = document.getElementById("botaoAp")
 let botaoFP = document.getElementById("botaoFP")
 let botaoPorcentagem = document.getElementById("botaoporcento")
+
